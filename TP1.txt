@@ -1,0 +1,24 @@
+1. Create a directory “lab1” in HDFS
+
+2. Copy the “purchases.txt” file into HDFS in the “lab1” directory
+
+3. Display the contents of the “lab1” directory. 
+
+What is the value of the replication factor
+
+4. Identify the size of the “purchases.txt” file
+
+5. Identify the number of blocks related to the file “purchases.txt”
+
+6. Display the 25 first lines of the file “purchases.txt”
+
+7. Copy the file “purchases.txt” into “purchases_hdfsCopy.txt” file
+
+8. Copy the file “purchases.txt” into “purchases_copy.txt” in the local file system.
+
+9. Check the entire file system for any inconsistencies or issues
+
+10.Delete the file “purchases.txt” from HDFS
+
+11.Delete the directory “lab1” from HDFS
+
